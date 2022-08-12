@@ -1,0 +1,1 @@
+This simple cipher program uses encrypt() to move the characters of a message forward by a set amount while ignoring characters which are not part of the alphabet. Additionally, it also shift back to the beginning or end of the alphabet, in cases where shifting letters would bring the final result outside the ASCII code range for uppercase letters.
